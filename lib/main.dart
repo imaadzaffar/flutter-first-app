@@ -17,12 +17,11 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello World',
+          'Learning Flutter',
           style: TextStyle(
             fontFamily: 'Padauk',
-            fontSize: 30,
+            fontSize: 40,
             fontWeight: FontWeight.bold,
-            letterSpacing: 2.0,
             color: Colors.blue[500],
           ),
         ),
